@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Ana 
+ Apellidos: García 
+ ------ 
+Nombre: Luis 
+ Apellidos: Martínez 
+ ------ 
+Nombre: Carlos 
+ Apellidos: López 
+ ------ 
+Nombre: Marta 
+ Apellidos: Hernández 
+ ------ 
+Nombre: Sofía 
+ Apellidos: Pérez 
+ ------ 
